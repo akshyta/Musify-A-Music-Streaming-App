@@ -9,7 +9,7 @@ A user logs into the Application with LoginID and Password.
 He/she is also given the option of availing for a subscription and upgrading to premium. 
 The Application also supports additional benefits like display of lyrics and image along with the song being played.
 
-##### Details on the UI (different screens in the Application frontend) and the SQL commands used to retrieve the data from the backend can be found in the progress document.
+#### Details on the UI (different screens in the Application frontend) and the SQL commands used to retrieve the data from the backend can be found in the progress document.
 
 ## Contributors
 1. Harshit Rai
